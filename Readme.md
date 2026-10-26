@@ -18,7 +18,7 @@ This is the official website for Avero Systems, built with Bootstrap 5. It featu
 
 ## Contact
 
-- **Email:** hello@averosystems.com
+- **Email:** nkathawinnie94@gmail.com
 - **Location:** Nairobi, Kenya
 
 ## Tech Stack
