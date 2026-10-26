@@ -13,7 +13,8 @@ Avero Systems is an AI and software solutions company based in Nairobi, Kenya. W
 
 This is the official website for Avero Systems, built with Bootstrap 5. It features our services, portfolio, team, and contact information.
 
-**Live Site:** [https://www.averosystems.com](https://www.averosystems.com)
+**Live Site:** [https://www.averosystems.com](https://www.averosystems.com)  
+**Netlify Preview:** [https://avero-systems.netlify.app/](https://avero-systems.netlify.app/)
 
 ## Contact
 
